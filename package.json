@@ -1,0 +1,16 @@
+{
+  "name": "paul-counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Snopov",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.6.0",
+    "dotenv": "^4.0.0",
+    "express": "^4.14.1"
+  }
+}
